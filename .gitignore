@@ -167,3 +167,6 @@ loan_data_inputs_train.csv
 loan_data_targets_train.csv
 loan_data_inputs_test.csv
 loan_data_targets_test.csv
+inputs_train_with_ref_cat.csv
+loan_data_inputs_2015.csv
+loan_data_targets_2015.csv
