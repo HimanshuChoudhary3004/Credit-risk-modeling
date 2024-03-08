@@ -170,3 +170,6 @@ loan_data_targets_test.csv
 inputs_train_with_ref_cat.csv
 loan_data_inputs_2015.csv
 loan_data_targets_2015.csv
+src/Data/List of dummy variables created during data_preprocessing.xlsx
+src/Data/loan_data_defaults.csv
+List of dummy variables created during data_preprocessing.xlsx
